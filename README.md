@@ -1,4 +1,4 @@
-# Proyecto_OCR_HPTU
+# Proyecto OCR Hospital Pablo Tobón Uribe
 Objetivo General: Desarrollar e implementar un sistema de OCR que permita la extracción precisa y eficiente de datos de antibiogramas desde informes en PDF, convirtiendo la información no estructurada en un formato estructurado y fácilmente analizable.
 Objetivo específico: 
 - Diseñar un algoritmo de preprocesamiento de imágenes que optimice la calidad del texto extraído de los informes de antibiogramas para mejorar la precisión del OCR. 
