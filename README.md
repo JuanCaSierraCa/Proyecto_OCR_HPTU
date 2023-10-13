@@ -1,11 +1,16 @@
-# Proyecto OCR Hospital Pablo Tobón Uribe
-Objetivo General: 
-Desarrollar e implementar un sistema de OCR que permita la extracción precisa y eficiente de datos de antibiogramas desde informes en PDF, convirtiendo la información no estructurada en un formato estructurado y fácilmente analizable.
+# Proyecto OCR: Hospital Pablo Tobón Uribe
 
-Objetivo específico: 
-- Diseñar un algoritmo de preprocesamiento de imágenes que optimice la calidad del texto extraído de los informes de antibiogramas para mejorar la precisión del OCR. 
-- Implementar y validar un sistema que convierta de manera fiable los datos extraídos mediante OCR en un formato estructurado, permitiendo un análisis más profundo y sistemático de los datos de antibiogramas. 
-- Evaluar la eficacia y precisión del sistema OCR implementado mediante pruebas con datos reales, ajustando y optimizando el sistema para maximizar la fidelidad y utilidad de los datos extraídos para su uso en análisis predictivos y otros contextos analíticos.
+## Resumen
+El objetivo de este proyecto es desarrollar e implementar un sistema de OCR que facilite la extracción precisa y eficiente de datos de antibiogramas a partir de informes en PDF. Esta implementación busca transformar información no estructurada en un formato estructurado y analizable, abordando así los desafíos actuales que enfrenta el Hospital Pablo Tobón Uribe en relación con la presentación y análisis de estos datos.
 
-Planteamiento del problema:
-La implementación de modelos predictivos que utilicen los datos provenientes de antibiogramas en el Hospital Pablo Tobón Uribe se ve obstruida por la presentación de esta información en formatos PDF, los cuales contienen datos no estructurados y, por ende, no son directamente utilizables en análisis predictivo y otras aplicaciones de análisis de datos. El proceso de convertir manualmente estos datos a un formato estructurado es una tarea ardua y propensa a errores, lo que la hace inviable para grandes volúmenes de datos y pone en riesgo la calidad y confiabilidad de los datos ingresados. Por tanto, la necesidad de convertir automáticamente estos informes PDF en un formato estructurado se vuelve crucial para facilitar el desarrollo y implementación de modelos predictivos que permitan una mejor planificación y toma de decisiones en el tratamiento de pacientes, al proporcionar una base de datos robusta y confiable sobre la que construir análisis futuros.
+## Objetivo General 
+Desarrollar e implementar una solución de OCR para la extracción eficaz de datos de antibiogramas en informes en PDF, logrando una transición de la información de un formato no estructurado a uno estructurado y fácilmente analizable.
+
+## Objetivos Específicos 
+- **Optimización de Extracción:** Diseñar un algoritmo de preprocesamiento de imágenes para optimizar la calidad del texto extraído de los informes, con el fin de mejorar la precisión del OCR.
+- **Conversión y Validación:** Implementar y validar una solución que convierta los datos extraídos mediante OCR en un formato estructurado, facilitando un análisis más profundo y sistemático de la información.
+- **Evaluación del Sistema:** Conducir pruebas con datos reales para evaluar la eficacia y precisión del sistema OCR. El objetivo es ajustar y optimizar el sistema, maximizando la fidelidad y utilidad de los datos extraídos en análisis predictivos y otros contextos analíticos.
+
+## Planteamiento del Problema
+El Hospital Pablo Tobón Uribe enfrenta desafíos en la implementación de modelos predictivos debido a la presentación de datos de antibiogramas en formatos PDF no estructurados. Convertir manualmente esta información es una tarea tediosa y susceptible a errores, dificultando su uso en grandes volúmenes y comprometiendo la calidad de los datos. Esta situación subraya la necesidad de una solución automatizada que facilite la conversión de estos informes a un formato estructurado, permitiendo así una mejor planificación y toma de decisiones en el tratamiento de pacientes.
+
